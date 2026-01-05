@@ -8,6 +8,13 @@ A sleek, responsive React sign-in / sign-up UI with an animated overlay panel. B
 - Responsive, centered card layout with dark theme
 - Minimal, easy-to-adapt React component structure
 
+## Preview Video
+
+
+https://github.com/user-attachments/assets/f72523f9-5f84-4ef7-8149-bf72c33310b5
+
+
+
 ## Quick Start
 
 Install dependencies and run the dev server:
